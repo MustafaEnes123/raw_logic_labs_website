@@ -62,7 +62,7 @@ Our design language is strictly **Industrial Minimalist**.
 
 ## 🔗 Connect
 
-*   **Google Play:** [Developer Profile]([https://play.google.com/store/apps/dev?id=LINK_BURAYA](https://play.google.com/store/apps/details?id=com.enesy.bookmarker&pli=1)
+*   **Google Play:** https://play.google.com/store/apps/details?id=com.enesy.bookmarker&pli=1
 *   **LinkedIn:** [Raw Logic Systems](https://www.linkedin.com/company/raw-logic-labs)
 *   **Email:** [admin@enesy.online](mailto:admin@enesy.online)
 
