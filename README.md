@@ -42,11 +42,6 @@ We build native, high-performance applications using a robust and secure stack.
 *   **AI Engine:** Gemini 1.5 Flash / Gemini 2.5 (Fine-tuned) via Vertex AI
 *   **Security:** BYOK (Bring Your Own Key) & EncryptedSharedPreferences
 
-### **Web Architecture**
-*   **Framework:** Next.js (React)
-*   **Styling:** Tailwind CSS (Monochrome Config)
-*   **Hosting:** Vercel
-
 ---
 
 ## 🎨 Design Philosophy
